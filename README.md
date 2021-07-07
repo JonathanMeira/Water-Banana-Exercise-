@@ -1,6 +1,11 @@
-# Wabanex
+# Water, Banana and Exercise - aka Wabanex
 
-To start your Phoenix server:
+## Project
+"Wabanex" is a gym workout app, that acts in managing and monitoring an user's workout. </br></br>
+ <b>OBS: Project organized by Rocketseat and taught by Rafael Camarda.</b>
+
+
+## 🖱 How to use:
 
   * Install dependencies with `mix deps.get`
   * Create and migrate your database with `mix ecto.setup`
